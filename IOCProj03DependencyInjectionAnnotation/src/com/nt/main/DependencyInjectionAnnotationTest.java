@@ -12,7 +12,7 @@ public class DependencyInjectionAnnotationTest {
 		AnnotationConfigApplicationContext ctx = 
 				new AnnotationConfigApplicationContext(AppConfig.class);
 		WishMessageGenerator wmg = (WishMessageGenerator)ctx.getBean("wmg");
-		String result = wmg.generateWishMessage("Chinni Krishna Satha");
+		String result = wmg.generateWishMessage("Chinni Krishna");
 		System.out.println(result);
 		ctx.close();
 
