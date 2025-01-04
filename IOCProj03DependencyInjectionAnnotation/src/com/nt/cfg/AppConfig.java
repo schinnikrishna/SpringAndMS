@@ -1,6 +1,7 @@
 package com.nt.cfg;
 
 import java.time.LocalTime;
+import java.util.Date;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -19,6 +20,12 @@ public class AppConfig {
 	public LocalTime getLocalTime() {
 		System.out.println("AppConfig.getLocalTime()");
 		return LocalTime.now();
+	}
+	
+	@Bean(name="dt")
+	public Date getDate() {
+		System.out.println("AppConfig.getDate()");
+		return new Date();
 	}
 
 }
