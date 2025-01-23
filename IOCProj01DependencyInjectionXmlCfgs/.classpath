@@ -6,11 +6,12 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="D:/Java/SpringBootAndMicroServicesByNatrajNaresh/External Jars/spring-beans-6.2.1.jar"/>
-	<classpathentry kind="lib" path="D:/Java/SpringBootAndMicroServicesByNatrajNaresh/External Jars/spring-context-6.2.1.jar"/>
-	<classpathentry kind="lib" path="D:/Java/SpringBootAndMicroServicesByNatrajNaresh/External Jars/spring-context-support-6.2.1.jar"/>
-	<classpathentry kind="lib" path="D:/Java/SpringBootAndMicroServicesByNatrajNaresh/External Jars/spring-core-6.2.1.jar"/>
-	<classpathentry kind="lib" path="D:/Java/SpringBootAndMicroServicesByNatrajNaresh/External Jars/spring-expression-6.2.1.jar"/>
-	<classpathentry kind="lib" path="D:/Java/SpringBootAndMicroServicesByNatrajNaresh/External Jars/spring-jcl-6.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java/SpringBootAndMicroServicesByNatrajNaresh/Spring/External Jars/spring-aop-6.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java/SpringBootAndMicroServicesByNatrajNaresh/Spring/External Jars/spring-beans-6.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java/SpringBootAndMicroServicesByNatrajNaresh/Spring/External Jars/spring-context-6.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java/SpringBootAndMicroServicesByNatrajNaresh/Spring/External Jars/spring-context-support-6.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java/SpringBootAndMicroServicesByNatrajNaresh/Spring/External Jars/spring-core-6.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java/SpringBootAndMicroServicesByNatrajNaresh/Spring/External Jars/spring-expression-6.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java/SpringBootAndMicroServicesByNatrajNaresh/Spring/External Jars/spring-jcl-6.2.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
